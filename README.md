@@ -14,7 +14,7 @@
  
  🌱 I’m currently enhancing my proficiency in **Python, Big Data technologies and Cloud Computing**
 
-💬 Ask me about **Pythonm R, Javascript... or anything [here](https://github.com/johanLib/johanLib/issues)**
+💬 Ask me about **Python, R, Javascript... or anything [here](https://github.com/johanLib/johanLib/issues)**
 
 ⚡ wise words **Once you understand the way boradly, you'll see it in everything**
 
