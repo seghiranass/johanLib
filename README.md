@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anass+Seghir!;" />
 </h1>
 
-<h3 align="center">A passionate front end developer from Morocco</h3>
+<h3 align="center">FullStack end developer and Futur Data Engineer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **myself**
+ 🔭 I’m constantly working on **myself**
  
- 🌱 I’m currently enhancing my proficiency in **ReactJs, Angular, TypeScript**
+ 🌱 I’m currently enhancing my proficiency in **Python, Big Data technologies and Cloud Computing**
 
-💬 Ask me about **Vue.js, Javascript... or anything [here](https://github.com/johanLib/johanLib/issues)**
+💬 Ask me about **Pythonm R, Javascript... or anything [here](https://github.com/johanLib/johanLib/issues)**
 
 ⚡ wise words **Once you understand the way boradly, you'll see it in everything**
 
